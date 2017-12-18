@@ -11,4 +11,5 @@ while True:
         if data.decode('ascii').strip() == "close":
             break
         conn.send(data)
+        break
     conn.close()
