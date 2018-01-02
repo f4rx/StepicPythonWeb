@@ -4,7 +4,6 @@ import pprint
 # 'QUERY_STRING': 'a=12&b=1&b=2',
 
 def app(environ, start_response):
-    # print(environ)
     pprint.pprint(environ)
     vars = environ['QUERY_STRING'].split("&")
     data = '\n'.join(vars) + '\n'
