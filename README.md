@@ -12,7 +12,15 @@ https://stepik.org/course/154
 path(r'^ask/$', include('qa.urls')),
 ```
 https://docs.djangoproject.com/en/2.0/topics/http/urls/
+
+ответ - разные выерсии django - в курсе 1.10, а я пробывал с 2.0
 ### 2. sdf
+
+## Используемые ссылки
+### 2.1 MVC фреймворки
+
+https://docs.djangoproject.com/en/2.0/intro/tutorial01/
+
 
 ## Запуск юпитер ноутбука
 ```bash
@@ -24,4 +32,3 @@ deactivate
 https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/ - хоткеи
 
 
-https://docs.djangoproject.com/en/2.0/intro/tutorial01/
