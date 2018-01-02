@@ -4,7 +4,15 @@ https://stepik.org/course/154
 * http://gunicorn.org/ - иникорн
 * https://habrahabr.ru/post/157287/ - venv в питоне
 
-
+## TODO
+### 1. Урлы
+Прочитать про роутинг в джанго (как матчить урлы и т.д.)  
+почему не работает ^ и $:
+```python
+path(r'^ask/$', include('qa.urls')),
+```
+https://docs.djangoproject.com/en/2.0/topics/http/urls/
+### 2. sdf
 
 ## Запуск юпитер ноутбука
 ```bash
