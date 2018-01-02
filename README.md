@@ -1,7 +1,10 @@
 https://stepik.org/course/154
 
 ## FAQ
-http://gunicorn.org/ - иникорн
+* http://gunicorn.org/ - иникорн
+* https://habrahabr.ru/post/157287/ - venv в питоне
+
+
 
 ## Запуск юпитер ноутбука
 ```bash
